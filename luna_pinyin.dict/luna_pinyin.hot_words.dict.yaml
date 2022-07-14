@@ -1,0 +1,37 @@
+# luna_pinyin.hot_words.dict.yaml
+---
+name: uiosun
+version: "2022.7.12"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - luna_pinyin
+  - luna_pinyin.extended
+  - luna_pinyin.hanyu
+  - luna_pinyin.poetry
+...
+
+自托管
+希区柯克
+浙江温州江南皮革厂
+嘤嘤嘤
+小鸡词典
+冰墩墩
+云朵石
+本手
+查重
+内卷
+新冠
+新冠肺炎
+原神
+骑马与砍杀
+洛天依
+虚拟明星
+虚拟偶像
+掌阅
+墨水屏
+喜加一
+小島秀夫
+绝命毒师
+傲骨贤妻
+律政佳人
